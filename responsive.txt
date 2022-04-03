@@ -3,4 +3,5 @@ OSPOS akan di buat lebih responsive :
 1 halaman login
 2 halaman index
 3 halaman transaksi
-4 Halaman customer
+4 halaman vendor & item & customer
+
