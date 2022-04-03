@@ -1,0 +1,5 @@
+OSPOS akan di buat lebih responsive :
+
+1 halaman login
+2 halaman index
+3 halaman transaksi
